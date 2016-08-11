@@ -1,0 +1,20 @@
+{
+  "name": "helloframework7",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "framework7": "^1.4.2",
+    "gulp": "^3.9.1",
+    "zepto": "^1.0.1"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.13.0"
+  }
+}
